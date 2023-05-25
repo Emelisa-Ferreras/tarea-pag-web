@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<hear>
+  <title> efm17 </title>
+</hear>
+</body>
+
+  <section>
+    <h1> Hola soy Emelisa </h1>
+    <h1> Hola soy Emelisa </h2>
+    <h3> Hola soy Emelisa </h3>
+    <h4> Hola soy Emelisa </h4>
+    <h5> Hola soy Emelisa </h5>
+    <h6> Hola soy Emelisa </h6>
+    <p> Hola soy Emelisa </p>
+
+
+  </section>
+    <!-- Lista ordenada -->
+      <h1> Lista ordenada </h1>
+    <ol>
+      <li> tarea </li>
+      <li> tarea </li>
+      <li> tarea </li>
+      <li> tarea </li>
+      <li> tarea </li>
+   </ol>
+
+      </section>
+    <!-- Lista desordenada -->
+      <h1> Lista desordenada </h1>
+    <ol>
+      <li> luz </li>
+      <li> agua </li>
+      <li> gas </li>
+      <li> telefono </li>
+      <li> renta </li>
+   </ol>
+
+      </section>
+    <!-- imagen -->
+      <h1> insertar imagen</h1>  
+
+      <img src=¨https://scontent.fhex2-1.fna.fbcdn.net/v/t39.30808-6/348727252_599575241949504_4639201682136853774_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFkFbpRk-plM_MP2E6SnXsPn9U8bw8j7TCf1TxvDyPtMKKnPuiEKUaZSJpND_t6b-oj0ny-1xFr6QDSlTfOaYm6&_nc_ohc=Bli4kyuXNeYAX-75GmS&_nc_ht=scontent.fhex2-1.fna&oh=00_AfBP6O3rrU8jfHNn8H3Kve6vcagpTuajzJsgQQGUqBepVg&oe=647412F0¨>imagen </h>
+     </section>
+    <a href="https://www.facebook.com/"> facebook <a/>
+      <h1> insertar enlace</h1>  
+
+
+  <iframe width="917" height="516" src="https://www.youtube.com/embed/AujdgmwCriU" title="La Bondad de Dios | con Becky Collazos y Gateway Worship Español" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</body>
+</html>
